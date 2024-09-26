@@ -4,16 +4,16 @@
 
 # Project: OceanWatch
 
-Overview
+* Overview
 Marine pollution is a global problem that affects every facet of our lives, from agriculture to industry.
 This project leverages machine learning technologies to tackle critical environmental issues related to marine pollution
 
-Description
+* Description
 - We are focused on creating advanced detection systems that accurately identify marine debris, oil spills, and algal blooms, enabling timely interventions to protect ocean health
 - Utilizing satellite imagery and sensor data to train machine learning models.
 - Techniques such as convolutional neural networks (CNNs) for image analysis and anomaly detection algorithms will be employed to identify and classify marine pollution incidents
 
-Usecases
+* Usecases
 1. Marine Debris Detection
 2. Oil Spills Detection
 3. Algae Bloom Detection
