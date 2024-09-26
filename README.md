@@ -1,8 +1,8 @@
 # INFO8665_ML
-Projects in Machine Learning
-Professor: Urvi Palvankar 
+# Projects in Machine Learning
+## Professor: Urvi Palvankar 
 
-Project: OceanWatch
+# Project: OceanWatch
 
 Overview
 Marine pollution is a global problem that affects every facet of our lives, from agriculture to industry.
