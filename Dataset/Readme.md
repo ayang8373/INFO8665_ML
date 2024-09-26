@@ -8,3 +8,6 @@ Katerina Kikaki1,2, Ioannis Kakogeorgiou1, Ibrahim Hoteit3, Konstantinos Karantz
 1National Technical University of Athens, 2Hellenic Centre for Marine Research,
 3King Abdullah University of Science and Technology
 ISPRS Journal of Photogrammetry and Remote Sensing - 2024
+
+TODO
+1. Make Train/Test Set
